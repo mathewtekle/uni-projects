@@ -1,0 +1,30 @@
+BWI Airport,01
+BWI Business Park,02
+Linthicum,03
+North Linthicum,04
+Baltimore Highlands,05
+Patapsco Avenue,06
+Cherry Hill,07
+Westport,08
+Hamburg Street,09
+Camden Yards,10
+Convention Center,11
+University Street,12
+Lexington Market,13
+State Center,14
+Cultural Center,15
+Mt. Royal,16
+Penn Station,17
+North Avenue,18
+Woodberry,19
+Cold Spring Lane,20
+Mount Washington,21
+Falls Road,22
+Lutherville,23
+Timonium Business Park,24
+Timonium,25
+Warren Road,26
+Gilroy Road,27
+McCormick Road,28
+Pepper Road,29
+Hunt Valley,30

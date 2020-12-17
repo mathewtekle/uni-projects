@@ -1,0 +1,648 @@
+valgrind ./proj3
+Route Loaded with 30 stops
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+1
+Miranda Chapman Boards the Train (Destination: State Center)
+Savana Thompson Boards the Train (Destination: Lexington Market)
+Elise Chapman Boards the Train (Destination: Mount Washington)
+George Andrews Boards the Train (Destination: Gilroy Road)
+Mike Stevens Boards the Train (Destination: North Linthicum)
+Kimberly Edwards Boards the Train (Destination: Falls Road)
+Boarded 6 passengers
+
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+2
+0 passengers disembarked
+
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+3
+Number of cars: 1
+Car 1: Number of passengers: 6
+Current stop: BWI Airport (1)
+Next stop is: BWI Business Park (2)
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at BWI Business Park
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+1
+Penelope Lloyd Boards the Train (Destination: Westport)
+Boarded 1 passengers
+
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+2
+0 passengers disembarked
+
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+3
+Number of cars: 1
+Car 1: Number of passengers: 7
+Current stop: BWI Business Park (2)
+Next stop is: Linthicum (3)
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Linthicum
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+1
+Lucas Rogers Boards the Train (Destination: North Linthicum)
+Adrian Carter Boards the Train (Destination: Mount Washington)
+Madaline Roberts Boards the Train (Destination: Pepper Road)
+Oscar Roberts Boards the Train (Destination: State Center)
+Hailey Douglas Boards the Train (Destination: Cold Spring Lane)
+Paul Barnes Boards the Train (Destination: Cultural Center)
+Samantha Richards Boards the Train (Destination: BWI Airport)
+Lucy Turner Boards the Train (Destination: Pepper Road)
+Thomas Moore Boards the Train (Destination: Baltimore Highlands)
+Current car Is Full - Adding Car 2
+Car Num 2 Coupled
+Adrian Ryan Boards the Train (Destination: Convention Center)
+Derek Watson Boards the Train (Destination: McCormick Road)
+Boarded 11 passengers
+
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+2
+0 passengers disembarked
+
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+3
+Number of cars: 2
+Car 1: Number of passengers: 16
+Car 2: Number of passengers: 2
+Current stop: Linthicum (3)
+Next stop is: North Linthicum (4)
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at North Linthicum
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+1
+Freddie Wells Boards the Train (Destination: Timonium Business Park)
+Adelaide Cunningham Boards the Train (Destination: BWI Airport)
+Rafael Fowler Boards the Train (Destination: Convention Center)
+Myra Cooper Boards the Train (Destination: Mount Washington)
+Adrian Taylor Boards the Train (Destination: Patapsco Avenue)
+Abraham Dixon Boards the Train (Destination: North Avenue)
+Boarded 6 passengers
+
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+2
+Mike Stevens Disembark the Train (Destination: North Linthicum)
+Lucas Rogers Disembark the Train (Destination: North Linthicum)
+2 passengers disembarked
+
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+3
+Number of cars: 2
+Car 1: Number of passengers: 14
+Car 2: Number of passengers: 8
+Current stop: North Linthicum (4)
+Next stop is: Baltimore Highlands (5)
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Baltimore Highlands
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+1
+Joyce Morris Boards the Train (Destination: Cultural Center)
+Fenton Anderson Boards the Train (Destination: University Street)
+Spike Richards Boards the Train (Destination: North Avenue)
+Aida Morris Boards the Train (Destination: Warren Road)
+Henry Smith Boards the Train (Destination: North Avenue)
+Evelyn Ross Boards the Train (Destination: Convention Center)
+Michelle Murphy Boards the Train (Destination: Gilroy Road)
+Freddie Edwards Boards the Train (Destination: Penn Station)
+Boarded 8 passengers
+
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+2
+Thomas Moore Disembark the Train (Destination: Baltimore Highlands)
+1 passengers disembarked
+
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+3
+Number of cars: 2
+Car 1: Number of passengers: 15
+Car 2: Number of passengers: 14
+Current stop: Baltimore Highlands (5)
+Next stop is: Patapsco Avenue (6)
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Patapsco Avenue
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+1
+Andrew Russell Boards the Train (Destination: Timonium Business Park)
+Kelsey Ellis Boards the Train (Destination: State Center)
+Michelle Mason Boards the Train (Destination: Warren Road)
+Current car Is Full - Adding Car 3
+Car Num 3 Coupled
+Catherine Harper Boards the Train (Destination: State Center)
+Lilianna Edwards Boards the Train (Destination: Cold Spring Lane)
+Justin Phillips Boards the Train (Destination: State Center)
+Boarded 6 passengers
+
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+2
+Adrian Taylor Disembark the Train (Destination: Patapsco Avenue)
+1 passengers disembarked
+
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+3
+Number of cars: 3
+Car 1: Number of passengers: 16
+Car 2: Number of passengers: 15
+Car 3: Number of passengers: 3
+Current stop: Patapsco Avenue (6)
+Next stop is: Cherry Hill (7)
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Cherry Hill
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+1
+Adison Baker Boards the Train (Destination: McCormick Road)
+Lydia Johnson Boards the Train (Destination: University Street)
+Jacob Foster Boards the Train (Destination: Cultural Center)
+Alberta Riley Boards the Train (Destination: Mount Washington)
+Boarded 4 passengers
+
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+2
+0 passengers disembarked
+
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+3
+Number of cars: 3
+Car 1: Number of passengers: 16
+Car 2: Number of passengers: 16
+Car 3: Number of passengers: 6
+Current stop: Cherry Hill (7)
+Next stop is: Westport (8)
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Westport
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+Arriving at Hamburg Street
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Camden Yards
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Convention Center
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at University Street
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Lexington Market
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at State Center
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Cultural Center
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Mt. Royal
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Penn Station
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at North Avenue
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Woodberry
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Cold Spring Lane
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Mount Washington
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Falls Road
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Lutherville
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Timonium Business Park
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Timonium
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Warren Road
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Gilroy Road
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at McCormick Road
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Pepper Road
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Hunt Valley
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+5
+30 stops reversed.
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+3
+Number of cars: 3
+Car 1: Number of passengers: 16
+Car 2: Number of passengers: 16
+Car 3: Number of passengers: 6
+Current stop: Hunt Valley (30)
+Next stop is: Pepper Road (29)
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Pepper Road
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+2
+Madaline Roberts Disembark the Train (Destination: Pepper Road)
+Lucy Turner Disembark the Train (Destination: Pepper Road)
+2 passengers disembarked
+
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at McCormick Road
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+2
+Derek Watson Disembark the Train (Destination: McCormick Road)
+Adison Baker Disembark the Train (Destination: McCormick Road)
+2 passengers disembarked
+
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Gilroy Road
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+2
+George Andrews Disembark the Train (Destination: Gilroy Road)
+Michelle Murphy Disembark the Train (Destination: Gilroy Road)
+2 passengers disembarked
+
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+4
+Arriving at Warren Road
+What would you like to do?
+1. Board Passengers
+2. Disembark Passengers
+3. Train Details
+4. Go to Next Stop
+5. Turn Train Around
+6. END
+6
+Thank you for working with the Baltimore Light Rail.
+Removing all passengers, trains, and routes
